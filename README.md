@@ -1,4 +1,4 @@
-# Hardhat FreeCodeCamp FundMe Project
+# Hardhat FreeCodeCamp SmartContract Lottery Project
 
 Smart contract lottery using solidity, javascript, Chainlink VRF, Chainlink Keepers
 
